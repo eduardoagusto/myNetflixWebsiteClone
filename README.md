@@ -3,7 +3,7 @@
 <p>Dentro do deste projeto, tive como exercício recriar a página inicial do serviço de streaming Netflix, dando um toque de personalidade e criatividade, coloquei minhas obras ficcionais favoritas. Para sua construção utilizei ferramentas e bibliotecas como Jquery e OwlCarrocel, fazendo a responsividade dos carrosséis presentes no site, funcionando tanto em smartphones, quanto desktop.</p>
 
 <h2>Link do projeto:</h2>
-<a href="https://eduardoagusto.github.io/myNetflixWebsiteClone/"> https://eduardoagusto.github.io/myNetflixWebsiteClone/</a>
+<a href="https://eduardoagusto.github.io/netflixClone/"> https://eduardoagusto.github.io/netflixClone/</a>
 
 <h2>Imagens do Projeto</h2>
 <h3>*Menu Desktop</h3>
