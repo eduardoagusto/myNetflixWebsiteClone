@@ -17,12 +17,12 @@
 <br>
 <h3 align=center>*Smartphone</h3>
 <p>
-<img align=left src="img/gifs/menu-smartphone-flix.gif">
-<img align=right src="img/gifs/lista-smartphone-flix.gif">
+<img src="img/gifs/menu-smartphone-flix.gif">
+<img src="img/gifs/lista-smartphone-flix.gif">
 </p>
 <br>
 <h2>Design</h2>
-<p align="left">Em realação ao design deste projeto, tentei recriar fielmente a interface atual do streaming Netflix, desde a logo, o menu, fonte e descrições. Algumas mudanças no catálogo foram feitas, colocando no lugar obras de meu gosto pessoal.</p>
+<p>Em realação ao design deste projeto, tentei recriar fielmente a interface atual do streaming Netflix, desde a logo, o menu, fonte e descrições. Algumas mudanças no catálogo foram feitas, colocando no lugar obras de meu gosto pessoal.</p>
 
 <h2>Tecnologias utilizadas</h2>
 <p>- JavaScript</p>
