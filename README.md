@@ -16,7 +16,7 @@
 </p>
 <br>
 <h3 align=center>*Smartphone</h3>
-<p>
+<p align="center">
 <img src="img/gifs/menu-smartphone-flix.gif">
 <img src="img/gifs/lista-smartphone-flix.gif">
 </p>
